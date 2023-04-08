@@ -6,5 +6,6 @@ Copycat de la web de Pixar.<br>
 <a href="https://www.pixar.com/">Original Site<a><br>
 
 <h2>Preview:</h2>
+
 ![capturapixar](https://user-images.githubusercontent.com/129302754/230747259-958ca507-77ee-4cc1-8059-b81687a28a53.png)
 
