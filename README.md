@@ -4,4 +4,4 @@
 Copycat de la web de Pixar.
 
 <a href="https://alejandroochandodev.github.io/pixar/">Live Site</a><br>
-<a href="https://stockholm50.qodeinteractive.com/">Original Site<a>
+<a href="https://www.pixar.com/">Original Site<a>
