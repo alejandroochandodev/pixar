@@ -3,5 +3,5 @@
 # Copycat: Pixar
 Copycat de la web de Pixar.
 
-<a href="https://alejandroochandodev.github.io/pixar/" target="_blank">Live Site</a><br>
+<a href="https://alejandroochandodev.github.io/pixar/">Live Site</a><br>
 <a href="https://www.pixar.com/">Original Site<a>
