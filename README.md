@@ -1,5 +1,6 @@
+![capturapixar](https://user-images.githubusercontent.com/129302754/230746352-ed3ec0d6-a611-413d-a425-ca56a0a02c0f.png)
+
 # Copycat: Pixar
 Copycat de la web de Pixar.
 
-
-<button><a href="https://github.com/alejandroochandodev/pixar.git">Live Site</a></button>
+<a href="https://www.pixar.com/">Original Site<a>
