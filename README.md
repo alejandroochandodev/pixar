@@ -1,5 +1,5 @@
 # Copycat: Pixar
-Copycat de la web de Pixar.<br>
+Copycat responsive de la web de Pixar.<br>
 
 <h2>Interesting Links:</h2>
 <a href="https://alejandroochandodev.github.io/pixar/">Live Site</a><br>
